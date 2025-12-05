@@ -115,7 +115,7 @@ fun CameraScreen() {
                 .padding(horizontal = 16.dp)
         ) {
             Text(
-                text = "Abrir Cámara",
+                text = "Abrir la cámara",
                 style = MaterialTheme.typography.titleMedium
             )
         }
